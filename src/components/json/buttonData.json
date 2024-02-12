@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "site": "GitHub",
+    "link": "https://github.com/rajvirsiingh"
+  },
+  {
+    "id": 2,
+    "site": "Frontend Mentor",
+    "link": "https://www.frontendmentor.io/profile/rajvirsiingh"
+  },
+  {
+    "id": 3,
+    "site": "LinkedIn",
+    "link": "https://www.linkedin.com/in/rajvir-singh-4b5245165/"
+  },
+  {
+    "id": 4,
+    "site": "Twitter",
+    "link": "https://twitter.com/rajvirsiiingh"
+  },
+  {
+    "id": 5,
+    "site": "Instagram",
+    "link": "https://www.instagram.com/dumptrxck/"
+  }
+]
